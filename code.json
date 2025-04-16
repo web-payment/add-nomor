@@ -1,15 +1,1 @@
-{
-  "users": [
-    {
-      "nomor": "6281234567890",
-      "password": "mypassword",
-      "waktu": "2025-04-16T10:00:00Z"
-    },
-    {
-      "nomor": "6285891142486",
-      "password": "Riki",
-      "waktu": "17/4/2025, 03.15.13"
-    }
-  ],
-  "blacklist": []
-}
+"{\n  \"users\": [\n    {\n      \"nomor\": \"6281234567890\",\n      \"password\": \"mypassword\",\n      \"waktu\": \"2025-04-16T10:00:00Z\"\n    },\n    {\n      \"nomor\": \"6285891142486\",\n      \"password\": \"Riki\",\n      \"waktu\": \"17/4/2025, 03.15.13\"\n    },\n    {\n      \"nomor\": \"62858911424867\",\n      \"password\": \"Riki\",\n      \"waktu\": \"17/4/2025, 03.48.16\"\n    }\n  ],\n  \"blacklist\": []\n}"
