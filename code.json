@@ -1,1 +1,10 @@
-"{\n  \"users\": [],\n  \"blacklist\": []\n}"
+{
+  "users": [
+    {
+      "nomor": "6281234567890",
+      "password": "rahasia123",
+      "waktu": "2025-04-17 12:05:00"
+    }
+  ],
+  "blacklist": []
+}
