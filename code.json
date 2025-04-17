@@ -1,10 +1,6 @@
 {
-  "users": [
-    {
-      "nomor": "6281234567890",
-      "password": "rahasia123",
-      "waktu": "2025-04-17T12:30:00Z"
-    }
-  ],
-  "blacklist": []
+  "users": [],
+  "blacklist": [
+    "6281234567890"
+  ]
 }
