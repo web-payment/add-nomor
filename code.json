@@ -1,27 +1,4 @@
 {
-  "users": [
-    {
-      "nomor": "6285891142486",
-      "password": "Rikishop",
-      "waktu": "17/4/2025, 22.20.10"
-    },
-    {
-      "nomor": "6285891142487",
-      "password": "Riki",
-      "waktu": "17/4/2025, 22.20.36"
-    },
-    {
-      "nomor": "6289533985561",
-      "password": "LimaRatus15",
-      "waktu": "17/4/2025, 22.55.09"
-    },
-    {
-      "nomor": "6289505317821",
-      "password": "TESTING01",
-      "waktu": "17/4/2025, 23.05.54"
-    }
-  ],
-  "blacklist": [
-    "62858911424860"
-  ]
+  "users": [],
+  "blacklist": []
 }
