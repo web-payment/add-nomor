@@ -1,25 +1,4 @@
 {
-  "users": [
-    {
-      "nomor": "6285775414552",
-      "password": "riki",
-      "waktu": "Minggu/20/April/2025: 15.57.37"
-    },
-    {
-      "nomor": "6285775414562",
-      "password": "rikishop",
-      "waktu": "Minggu/20/April/2025: 16.07.48"
-    },
-    {
-      "nomor": "6285771555374",
-      "password": "riki",
-      "waktu": "Minggu/20/April/2025: 16.14.41"
-    },
-    {
-      "nomor": "62857715553741",
-      "password": "riki",
-      "waktu": "Minggu/20/April/2025: 16.19.13"
-    }
-  ],
+  "users": [],
   "blacklist": []
 }
