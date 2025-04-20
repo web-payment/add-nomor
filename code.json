@@ -1,15 +1,4 @@
 {
-  "users": [
-    {
-      "nomor": "6285891142486",
-      "password": "haha",
-      "waktu": "Minggu/20/April/2025, 06.48.17"
-    },
-    {
-      "nomor": "6285771555374",
-      "password": "rikishop",
-      "waktu": "Minggu/20/April/2025, 08.00.45"
-    }
-  ],
+  "users": [],
   "blacklist": []
 }
