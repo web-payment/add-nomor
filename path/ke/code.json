@@ -4,12 +4,9 @@
       "nomor": "62858911424862",
       "password": "riki",
       "waktu": "Senin/21/April/2025: 14.43.47"
-    },
-    {
-      "nomor": "62858911424861",
-      "password": "",
-      "waktu": 1745222047258
     }
   ],
-  "blacklist": []
+  "blacklist": [
+    "62858911424861"
+  ]
 }
