@@ -1,19 +1,19 @@
 {
-  "users": [
-    {
-      "nomor": "6285774630380",
-      "password": "Aryajola",
-      "waktu": "Senin/21/April/2025: 22.59.44"
-    }
-  ],
+  "users": [],
   "blacklist": [
-    "6285891142486"
+    "6285891142486",
+    "6285774630380"
   ],
   "originals": {
     "6285891142486": {
       "nomor": "6285891142486",
       "password": "riki",
       "waktu": "Senin/21/April/2025: 20.32.40"
+    },
+    "6285774630380": {
+      "nomor": "6285774630380",
+      "password": "Aryajola",
+      "waktu": "Senin/21/April/2025: 22.59.44"
     }
   }
 }
