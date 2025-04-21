@@ -1,19 +1,9 @@
 {
   "users": [
     {
-      "nomor": "62858911424861",
-      "password": "tiki",
-      "waktu": "Senin/21/April/2025: 08.31.45"
-    },
-    {
       "nomor": "62858911424864",
       "password": "tiki",
       "waktu": "Senin/21/April/2025: 08.32.09"
-    },
-    {
-      "nomor": "6285775414552",
-      "password": "riki",
-      "waktu": "Senin/21/April/2025: 08.49.49"
     }
   ],
   "blacklist": []
