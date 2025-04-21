@@ -1,27 +1,30 @@
 {
   "users": [
     {
-      "nomor": "62858911424861",
-      "password": "riki",
-      "waktu": "Senin/21/April/2025: 16.36.30"
-    },
-    {
       "nomor": "62858911424862",
       "password": "riki",
       "waktu": "Senin/21/April/2025: 16.36.43"
-    },
-    {
-      "nomor": "62858911424863",
-      "password": "riki",
-      "waktu": "Senin/21/April/2025: 16.36.55"
     }
   ],
-  "blacklist": [],
+  "blacklist": [
+    "62858911424861",
+    "62858911424863"
+  ],
   "originals": {
     "6285891142486": {
       "nomor": "6285891142486",
       "password": "riki",
       "waktu": "Senin/21/April/2025: 16.33.22"
+    },
+    "62858911424861": {
+      "nomor": "62858911424861",
+      "password": "riki",
+      "waktu": "Senin/21/April/2025: 16.36.30"
+    },
+    "62858911424863": {
+      "nomor": "62858911424863",
+      "password": "riki",
+      "waktu": "Senin/21/April/2025: 16.36.55"
     }
   }
 }
