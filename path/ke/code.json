@@ -1,5 +1,11 @@
 {
-  "users": [],
+  "users": [
+    {
+      "nomor": "62814003373536",
+      "password": "riki",
+      "waktu": "Selasa/22/April/2025: 09.38.37"
+    }
+  ],
   "blacklist": [],
   "originals": {}
 }
