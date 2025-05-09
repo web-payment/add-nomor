@@ -19,12 +19,9 @@
       "nomor": "085892242486",
       "password": "Riki",
       "waktu": "22/4/2025, 06.56.36"
-    },
-    {
-      "nomor": "6285775414562",
-      "password": "Rikishop",
-      "waktu": "9/5/2025, 11.48.10"
     }
   ],
-  "blacklist": []
+  "blacklist": [
+    "6285775414562"
+  ]
 }
