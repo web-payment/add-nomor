@@ -6,11 +6,6 @@
       "waktu": "Selasa/22/April/2025: 09.38.37"
     },
     {
-      "nomor": "6285771555364",
-      "password": "riki",
-      "waktu": "Senin/5/Mei/2025: 06.01.12"
-    },
-    {
       "nomor": "6285891142486",
       "password": "riki",
       "waktu": "Senin/5/Mei/2025: 06.43.07"
@@ -31,7 +26,9 @@
       "waktu": "Selasa/13/Mei/2025: 00.25.56"
     }
   ],
-  "blacklist": [],
+  "blacklist": [
+    "6285771555364"
+  ],
   "originals": {
     "6285891142486": {
       "nomor": "6285891142486",
